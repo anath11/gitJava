@@ -33,6 +33,8 @@ public class Main {
 
         // To print the datail of the vehicle
         v2.printDetails();
+        Vehicle v3 = new Vehicle();
+        v3.setColour("red");
 
     }
 }
